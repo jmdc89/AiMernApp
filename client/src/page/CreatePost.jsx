@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const CreatePost = () => {
   return (
@@ -6,4 +6,4 @@ const CreatePost = () => {
   )
 }
 
-export default CreatePost
+export default CreatePost;
